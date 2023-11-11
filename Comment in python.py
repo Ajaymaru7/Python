@@ -1,0 +1,7 @@
+print("Single line comment : #Comment")
+print("")
+print("Multi Line Comment : ")
+print("")
+print("1. '''This \n is \n multi line \n comment'''")
+print("")
+print("2. \"\"\" This \n is \n multi line \n comment\"\"\"")
